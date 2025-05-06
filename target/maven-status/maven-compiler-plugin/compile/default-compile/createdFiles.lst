@@ -1,0 +1,9 @@
+com/parking/parkingapp/repository/ParkingSlotRepository.class
+com/parking/parkingapp/service/ParkingSlotService.class
+com/parking/parkingapp/controller/ParkingSlotController.class
+com/parking/parkingapp/repository/UserRepository.class
+com/parking/parkingapp/model/ParkingSlot.class
+com/parking/parkingapp/controller/UserController.class
+com/parking/parkingapp/ParkingAppApplication.class
+com/parking/parkingapp/model/User.class
+com/parking/parkingapp/service/UserService.class
