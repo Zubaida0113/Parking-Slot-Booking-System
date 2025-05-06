@@ -1,0 +1,9 @@
+/Users/tanvimehnaz/IdeaProjects/ParkingApp/src/main/java/com/parking/parkingapp/ParkingAppApplication.java
+/Users/tanvimehnaz/IdeaProjects/ParkingApp/src/main/java/com/parking/parkingapp/controller/ParkingSlotController.java
+/Users/tanvimehnaz/IdeaProjects/ParkingApp/src/main/java/com/parking/parkingapp/controller/UserController.java
+/Users/tanvimehnaz/IdeaProjects/ParkingApp/src/main/java/com/parking/parkingapp/model/ParkingSlot.java
+/Users/tanvimehnaz/IdeaProjects/ParkingApp/src/main/java/com/parking/parkingapp/model/User.java
+/Users/tanvimehnaz/IdeaProjects/ParkingApp/src/main/java/com/parking/parkingapp/repository/ParkingSlotRepository.java
+/Users/tanvimehnaz/IdeaProjects/ParkingApp/src/main/java/com/parking/parkingapp/repository/UserRepository.java
+/Users/tanvimehnaz/IdeaProjects/ParkingApp/src/main/java/com/parking/parkingapp/service/ParkingSlotService.java
+/Users/tanvimehnaz/IdeaProjects/ParkingApp/src/main/java/com/parking/parkingapp/service/UserService.java
