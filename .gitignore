@@ -1,1 +1,2 @@
-/src/main/resources/application-example.properties
+# Ignore application.properties to protect sensitive information
+src/main/resources/application.properties
